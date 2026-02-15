@@ -1,4 +1,4 @@
-# 🥕 Food Ingredient Search App
+# 🥕 食材検索アプリ（Food Ingredient Search App）
 
 Googleスプレッドシートをデータベースとして活用し、  
 Google Apps Script（GAS）で構築したサーバーレス型の食材検索Webアプリです。
