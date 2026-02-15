@@ -5,7 +5,7 @@ Google Apps Script（GAS）で構築したサーバーレス型の食材検索We
 
 料理名を検索すると、対応する食材一覧を即座に表示できます。
 
-<img src="assets/screenshot_demo.png" width="600>
+<img src="assets/screenshot_demo.png" width="600">
 
 ---
 
